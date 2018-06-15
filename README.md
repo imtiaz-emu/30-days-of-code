@@ -34,3 +34,4 @@ Topics include if-else statements, recursion, data structures and more.
 - Day 23: BST Level-Order Traversal. [Link](https://www.hackerrank.com/challenges/30-binary-trees/problem)
 - Day 24: More Linked Lists. [Link](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
 - Day 25: Running Time and Complexity. [Link](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)
+- Day 26: Nested Logic. [Link](https://www.hackerrank.com/challenges/30-nested-logic/problem)
